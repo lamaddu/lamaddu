@@ -773,7 +773,7 @@ http://golive.yn.lt/live/seriea/25.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="live2" tvg-logo="https://s.id/1pSQw" group-title="SPORT",LIVE 2
-http://golive.yn.lt/live/bola/02.m3u8
+https://s15.123ecast.me:8402/hd/hls/dP3HJsHVFaR557XHz1BO3w/1669918414/supergs.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
