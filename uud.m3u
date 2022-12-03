@@ -802,22 +802,22 @@ https://lamaddu.github.io/lamaddu/sp1.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="live7" tvg-logo="https://s.id/1pSQw" group-title="SPORT",LIVE 7
+#EXTINF:-1 tvg-ID="live8" tvg-logo="https://s.id/1pSQw" group-title="SPORT",LIVE 8
 https://lamaddu.github.io/lamaddu/sp2.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="live7" tvg-logo="https://s.id/1pSQw" group-title="SPORT",LIVE 7
+#EXTINF:-1 tvg-ID="live9" tvg-logo="https://s.id/1pSQw" group-title="SPORT",LIVE 9
 https://lamaddu.github.io/lamaddu/sp3.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="live7" tvg-logo="https://s.id/1pSQw" group-title="SPORT",LIVE 7
+#EXTINF:-1 tvg-ID="live10" tvg-logo="https://s.id/1pSQw" group-title="SPORT",LIVE 10
 https://lamaddu.github.io/lamaddu/sp4.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="live7" tvg-logo="https://s.id/1pSQw" group-title="SPORT",LIVE 7
+#EXTINF:-1 tvg-ID="live11" tvg-logo="https://s.id/1pSQw" group-title="SPORT",LIVE 11
 https://lamaddu.github.io/lamaddu/sp5.m3u8
 
 
