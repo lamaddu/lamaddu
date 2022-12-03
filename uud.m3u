@@ -778,7 +778,7 @@ https://lamaddu.github.io/lamaddu/bmax2.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="live3" tvg-logo="https://s.id/1pSQw" group-title="SPORT",LIVE 3
-https://lamaddu.github.io/lamaddu/bmax1.m3u8
+https://raw.githubusercontent.com/lamaddu/lamaddu/main/bmax1.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
