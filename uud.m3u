@@ -859,6 +859,11 @@ https://lamaddu.github.io/lamaddu/fs1.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="live19" tvg-logo="https://s.id/1pSQw" group-title="SPORT",LIVE 19
 https://lamaddu.github.io/lamaddu/fox.m3u8
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="ligabri" tvg-logo="https://s.id/1pSQw" group-title="SPORT",LIGA BRI
+http://golive.yn.lt/live/liga1/04.m3u8
 
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
