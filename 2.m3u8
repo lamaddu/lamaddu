@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-http://birutv.my.id/dassdvr/130/tvone/manifest.mpd
+https://sport.livedoomovies.com:4431/live/02_2sporthd2_720p/chunklist.m3u8?|referer=https://www.movie87hd.com/?r=ajax/&User-agent=REDLINECLIENT.m3u8
+#https://global.zkshuye.cn/live/hd-1-.m3u8
